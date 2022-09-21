@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Age Calculator</string>
+    <string name="calculate_your">CALCULATE YOUR</string>
+    <string name="age">AGE</string>
+    <string name="select_date">SELECT DATE</string>
+    <string name="in_minutes">IN MINUTES</string>
+    <string name="date_of_birth">DATE OF BIRTH</string>
+    <string name="changeAgeUnit"><![CDATA[>>]]></string>
+    <string name="dd_mm_yyyy">DD/MM/YYYY</string>
+    <string name="_0">0</string>
+</resources>
